@@ -160,7 +160,7 @@
 
     h1 {
         background: -webkit-linear-gradient(#ffffff, #ffffff);
-        -webkit-background-clip: text;
+        background-clip: text;
         -webkit-text-fill-color: #00000000;
         padding: 0;
         text-align: center;
@@ -183,7 +183,7 @@
         font-family: 'three';
         // color: #d4d4d4 ;
         background: linear-gradient(#262626, #eaeaea, #262626);
-        -webkit-background-clip: text;
+        background-clip: text;
         color: transparent;
         text-transform: uppercase;
         text-shadow: -2px 2px #00000038;
