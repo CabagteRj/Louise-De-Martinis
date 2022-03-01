@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react'
 import { Link } from 'gatsby';
 import Logo from '../../static/logo/jamesbosleylogo.png'
-//changes
+///changes
 const Nav = (props) => {
 
     const refSpan = useRef();
